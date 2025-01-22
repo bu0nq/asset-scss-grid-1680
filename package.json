@@ -1,0 +1,32 @@
+{
+  "name": "@bu0nq/asset-scss-grid-1680",
+  "version": "0.1.0",
+  "description": "Package for integrating Asset SCSS Grid 1680",
+  "files": [
+    "./**/*.scss"
+  ],
+  "keywords": [
+    "asset",
+    "scss",
+    "grid"
+  ],
+  "dependencies": {
+    "@bu0nq/asset-scss-function": "^0.2.0"
+  },
+  "author": {
+    "name": "bu0nq",
+    "email": "hello@bu0nq.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bu0nq/asset-scss-grid-1680.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bu0nq/asset-scss-grid-1680/issues"
+  },
+  "homepage": "https://github.com/bu0nq/asset-scss-grid-1680#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
